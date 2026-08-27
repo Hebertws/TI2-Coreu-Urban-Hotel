@@ -1,4 +1,4 @@
-# TI2-Web
+# TI2-Coreu Urban Hotel
 
 Artur Carvalho Corte
 Hebert William de Souza
